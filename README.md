@@ -53,6 +53,7 @@ Mother board official site: https://www.gigabyte.com/Motherboard/B660M-DS3H-AX-D
 
 # Download 
 
-You can get the files needed to configure your Hackintosh from the following link [Download Hackintosh](https://ko-fi.com/s/8d36c83052).
+You can ***BUY*** the files needed to configure your Hackintosh from the following link [Download Hackintosh](https://ko-fi.com/s/8d36c83052).
+Where is an explanation of how to configure and replicate the same hardware configuration.
 
 Enjoy your Hackintosh with GIGABYTE B660M DS3H AX DDR4 motherboard and Intel i7-12700F processor! If you need additional help, feel free to consult the documentation and resources provided in this repository.
