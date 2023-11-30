@@ -22,7 +22,14 @@ Mother board official site: https://www.gigabyte.com/Motherboard/B660M-DS3H-AX-D
 
 ***OpenCore: 0.9.6 - Osx Ventura - iMacPro1,1***
 
+# Testing
+* Ventura 13.6 (22G120)
+
 # Hardware
+
+***Bios:*** last update
+    * GPU 4G above
+    * Resize Bar
 
 [x] Intel 12th Gen Intel(R) Core i7-12700F
     - Family: 6
@@ -31,7 +38,7 @@ Mother board official site: https://www.gigabyte.com/Motherboard/B660M-DS3H-AX-D
     - 2.1Ghz L3 Cache
     [x] Power Management Table
 
-- Ram 16GB DDR4 
+- Ram 48GB DDR4 3200Mhz
 - M2 
 [x] Hibernate / Sleep
 
@@ -62,7 +69,7 @@ Mother board official site: https://www.gigabyte.com/Motherboard/B660M-DS3H-AX-D
 ### Geekbench 6. 1.0 for Windows AVX2
 
 * GPU Vulcan score: 148459 [Geekbench GPU Vulcan](https://browser.geekbench.com/v6/compute/1301866)
-* GPU Metal score: 232433 [Geekbench GPU Metal](https://browser.geekbench.com/v6/compute/1301862)
+* GPU Metal score: 237716 [Geekbench GPU Metal](https://browser.geekbench.com/v6/compute/1370009)
 
 [Geekbench CPU](https://browser.geekbench.com/v6/cpu/3586276)
 * CPU Sinale-Core Score: 2354
